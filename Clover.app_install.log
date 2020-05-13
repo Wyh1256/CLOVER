@@ -1,0 +1,45 @@
+
+Clover 安装器 r5109 (v1.1.2), 2020-04-09 05:52:06
+macOS 版本10.15.4（版号19E266）
+SELF = /Applications/Clover.app/Contents/MacOS/CloverDaemonNew
+Backup made at:
+/Users/w_/Desktop/CloverBackUp/LITEON V5G 128 Media/r5107_2020-04-09_17-52-03/EFI.
+Target volume: /Volumes/EFI
+BSD Name:      disk0s1
+Filesystem:    FAT32
+Is internal:   true
+Is writable:   true
+
+Installing/Updating Clover:
++ ../BOOT/BOOTX64.efi
++ ../CLOVER/CLOVERX64.efi
+
+Installing/Updating drivers:
++ ../UEFI/DataHubDxe.efi
++ ../UEFI/FSInject.efi
++ ../UEFI/SMCHelper.efi
++ ../UEFI/ApfsDriverLoader.efi
++ ../UEFI/AptioMemoryFix.efi
++ ../UEFI/NvmExpressDxe.efi
++ ../UEFI/PartitionDxe.efi
++ ../BIOS/AudioDxe.efi
++ ../BIOS/FSInject.efi
++ ../BIOS/SMCHelper.efi
++ ../BIOS/XhciDxe.efi
++ ../BIOS/ApfsDriverLoader.efi
++ ../BIOS/GrubEXFAT.efi
++ ../BIOS/GrubISO9660.efi
++ ../BIOS/GrubNTFS.efi
++ ../BIOS/GrubUDF.efi
++ ../BIOS/AppleImageCodec.efi
++ ../BIOS/AppleKeyAggregator.efi
++ ../BIOS/AppleUITheme.efi
++ ../BIOS/FirmwareVolume.efi
+
+Installing/Updating tools:
++ ../tools/Shell64.efi
++ ../tools/bdmesg.efi
++ ../tools/Shell64U.efi
++ ../tools/Shell32.efi
+
+Installing/Updating docs:
